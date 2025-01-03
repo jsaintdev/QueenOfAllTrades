@@ -4,17 +4,24 @@
     "description": "Game inspired by the Drag Race Franchise\r ===================================",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "Justin Saint",
     "license": "ISC",
     "dependencies": {
-      "bcrypt": "^5.1.0",
-      "connect-mongo": "^4.6.0",
-      "dotenv": "^16.0.3",
-      "express": "^4.18.2",
-      "express-session": "^1.17.3",
-      "joi": "^17.8.4"
-    }
-  }
-  
+        "bcrypt": "^5.1.0",
+        "connect-mongo": "^4.6.0",
+        "dotenv": "^16.0.3",
+        "express": "^4.21.2",
+        "express-session": "^1.17.3",
+        "joi": "^17.8.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jsaintdev/QueenOfAllTrades.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jsaintdev/QueenOfAllTrades/issues"
+    },
+    "homepage": "https://github.com/jsaintdev/QueenOfAllTrades#readme"
+}
